@@ -861,7 +861,7 @@ export default function Home() {
                 </motion.a>
                 
                 <motion.a
-                  href="/Prateek-Mani-tripathi (1).pdf"
+                  href="/Prateek_Resume.pdf"
                   download
                   className="group relative inline-flex items-center justify-center px-6 py-4 text-lg font-bold tracking-wider text-cyan-400 bg-transparent border-2 border-cyan-400/50 rounded-xl overflow-hidden transition-all duration-300 hover:text-white backdrop-blur-sm"
                   whileHover={{ scale: 1.05, y: -2 }}
