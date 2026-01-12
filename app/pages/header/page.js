@@ -178,7 +178,7 @@ export default function Header() {
                 <a href="https://github.com/prateekmtri" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-cyan-400 transition-colors duration-300">
                     <FaGithub size={22} />
                 </a>
-                 <a href="prateek1tri2@gmail.com" className="text-neutral-400 hover:text-cyan-400 transition-colors duration-300">
+                 <a href="prateek1run detri2@gmail.com" className="text-neutral-400 hover:text-cyan-400 transition-colors duration-300">
                     <FaEnvelope size={22} />
                 </a>
             </motion.div>
