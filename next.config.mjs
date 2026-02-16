@@ -1,5 +1,9 @@
-export default {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  output: 'export', // Ye line sabse zaroori hai
   images: {
-    domains: ["t3.ftcdn.net", "images.unsplash.com"], // Add Unsplash and any other required domains
+    unoptimized: true, // Static export ke liye zaroori hai
   },
 };
+
+export default nextConfig;
